@@ -1,0 +1,7 @@
+shiny gold: 2 dark red
+dark red: 2 dark orange
+dark orange: 2 dark yellow
+dark yellow: 2 dark green
+dark green: 2 dark blue
+dark blue: 2 dark violet
+dark violet: none
