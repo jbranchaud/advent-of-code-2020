@@ -30,3 +30,5 @@ direct line on everything else I'm working on.
 - [Day 10, Part Two - Solved with SQL and Ruby](https://www.youtube.com/watch?v=CdPO6BNTrtY)
 - [Day 11, Part One - Solved with Ruby](https://www.youtube.com/watch?v=ZQUqNooKws4)
 - [Day 11, Part Two - Solved with Ruby](https://www.youtube.com/watch?v=RRH2drh2GxU)
+- [Day 12, Part One - Solved with Ruby](https://www.youtube.com/watch?v=LF98molZn7M)
+- [Day 12, Part Two - Solved with Ruby](https://www.youtube.com/watch?v=e4i4YR5WIc8)
